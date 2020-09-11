@@ -1,0 +1,56 @@
+"""
+------------------------------------------------------------------------
+Program Description
+------------------------------------------------------------------------
+Author: Anshul Khatri
+ID:     193313680
+Email:  khat3680@mylaurier.ca
+__updated__ = "2019-09-14"
+------------------------------------------------------------------------
+l=diameter(2.5)
+
+print('Diameter of circle: {:.2f}'.format(l) )
+"""
+from math import sqrt
+
+def diameter(radius):
+    """
+    -------------------------------------------------------
+    Calculates and returns diameter of a circle.
+    Use: d = diameter(radius)
+    -------------------------------------------------------
+    Parameters:
+        radius - radius of a circle (float >= 0)
+    Returns:
+        d - diameter of a circle (float)
+    ----
+    """
+    d=radius*2
+    return d
+
+
+def square_pyramid(base, height):
+    """
+    -------------------------------------------------------
+    Calculates and returns the slant height, area, and
+    volume of a square pyramid given the base and perpendicular
+    height.
+    Use: sh, a, v = square_pyramid(base, height)
+    -------------------------------------------------------
+    Parameters:
+        base - length of the base of the pyramid (float > 0)
+        height - perpendicular height of the pyramid (float > 0)
+    Returns:
+        sh - slant height of the square pyramid (float)
+        a - area of the square pyramid (float)
+        v - volume of the square pyramid (float)
+    ------------------------------------------------------
+    """
+    
+    slant_h=sqrt( base^2 + height^2 )
+    area = base^2 + 2*base*slant_h
+    volume=base^(2)*(height/3)
+    
+    return slant_h,area,volume
+    
+    

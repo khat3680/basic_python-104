@@ -1,0 +1,71 @@
+
+Lab 5 Question 2
+-------------------------------------------------------------
+OUTPUT
+
+Enter mass (kg): 5
+Weight: 49.0 N
+
+Object is: average
+
+Enter mass (kg): 1
+Weight: 9.8 N
+
+Object is: light
+ 
+-------------------------------------------------------------
+
+Lab 5 Question 5
+-------------------------------------------------------------
+OUTPUT
+
+Enter a year (>0): 1999
+1999 is not a leap year
+
+
+Enter a year (>0): 1996
+1996 is a leap year
+
+
+-------------------------------------------------------------
+Lab 5 Question 9
+-------------------------------------------------------------
+output
+
+Wind speed (km/h): 95
+Category: Whole Gale
+
+-------------------------------------------------------------
+Lab 5 Question 13
+-------------------------------------------------------------
+output
+
+Years employed: 6
+Annual salary: 45000
+
+Qualified for a loan: True
+
+Years employed: 3
+
+Qualified for a loan: False
+
+Years employed: 15
+Annual salary: 25000
+
+Qualified for a loan: False
+
+-------------------------------------------------------------
+Lab 5 Question 15 
+-------------------------------------------------------------
+OUTPUT
+
+Order B - burger or W - wings: B
+Make it a combo? (Y/N): N
+Price: $6.00
+
+Order B - burger or W - wings: W
+Make it a combo? (Y/N): Y
+Add F - fries or S - salad: F
+Price: $9.50
+
+-------------------------------------------------------------

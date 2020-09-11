@@ -1,0 +1,38 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/anshul/Documents/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/khat3680_a02/com.python.pydev.analysis/v2_indexcache
+q1|1569035294981203000|/Users/anshul/Documents/CP104/khat3680_a02/q1.py
+q2|1572575161875169000|/Users/anshul/Documents/CP104/khat3680_a02/q2.py
+q3|1572576213089886000|/Users/anshul/Documents/CP104/khat3680_a02/q3.py
+q4|1572642237108138000|/Users/anshul/Documents/CP104/khat3680_a02/q4.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+8=q1
+2=q2
+6=q3
+4=q4
+7=/Users/anshul/Documents/CP104/khat3680_a02/q1.py
+1=/Users/anshul/Documents/CP104/khat3680_a02/q2.py
+3=/Users/anshul/Documents/CP104/khat3680_a02/q4.py
+5=/Users/anshul/Documents/CP104/khat3680_a02/q3.py
+-- END DICTIONARY
+-- START TREE 1
+13
+a|1|a!1^17#1*19@
+dat|1|date!3^13#1*35@
+day|1|day!3^17#1*35@
+dir|1|dirt!5^30#1*51@
+fir|1|firstn!7^11#1*67@
+gra|1|gravel!5^31#1*51@
+mon|1|month!3^19#1*35@
+n|1|n!1^16#1*19@
+p|1|p!1^13#1*19@
+r|1|r!1^14#1*19@
+sec|1|secondn!7^12#1*67@
+t|1|t!1^15#1*19@
+yea|1|year!3^15#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

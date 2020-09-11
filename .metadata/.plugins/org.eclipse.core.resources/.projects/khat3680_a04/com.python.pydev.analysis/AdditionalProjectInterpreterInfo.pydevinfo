@@ -1,0 +1,36 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/anshul/Documents/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/khat3680_a04/com.python.pydev.analysis/v2_indexcache
+q1|1570131206318471000|/Users/anshul/Documents/CP104/khat3680_a04/src/q1.py
+q2|1570075669702608000|/Users/anshul/Documents/CP104/khat3680_a04/src/q2.py
+q3|1570110927113809000|/Users/anshul/Documents/CP104/khat3680_a04/src/q3.py
+q3_functions|1570111127668126000|/Users/anshul/Documents/CP104/khat3680_a04/src/q3_functions.py
+q2_functions|1570075567668792000|/Users/anshul/Documents/CP104/khat3680_a04/src/q2_functions.py
+q1_functions|1570129760717488000|/Users/anshul/Documents/CP104/khat3680_a04/src/q1_functions.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+4=q1
+6=q3
+7=/Users/anshul/Documents/CP104/khat3680_a04/src/q2_functions.py
+9=/Users/anshul/Documents/CP104/khat3680_a04/src/q3_functions.py
+10=q3_functions
+8=q2_functions
+3=/Users/anshul/Documents/CP104/khat3680_a04/src/q1.py
+1=/Users/anshul/Documents/CP104/khat3680_a04/src/q1_functions.py
+2=q1_functions
+5=/Users/anshul/Documents/CP104/khat3680_a04/src/q3.py
+-- END DICTIONARY
+-- START TREE 1
+7
+cal|2|calc_prov_tax!1^46#5*18@calc_federal_tax!1^13#5*18@
+fed|1|fed!3^16#1*35@
+inc|1|inc!3^14#1*35@
+l|1|l!5^15#1*51@
+mat|1|math_quiz!7^13#5*66@
+num|2|num_day!9^12#5*82@number!5^14#1*51@
+pro|1|pro!3^17#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

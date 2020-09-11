@@ -1,0 +1,51 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/anshul/Documents/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/anshuhl1/com.python.pydev.analysis/v2_indexcache
+p1|1572994848749875000|/Users/anshul/Documents/CP104/anshuhl1/p1.py
+practice|1576988524590543000|/Users/anshul/Documents/CP104/anshuhl1/practice.py
+taks|1576712757224236000|/Users/anshul/Documents/CP104/anshuhl1/taks.py
+t8|1576709425987676000|/Users/anshul/Documents/CP104/anshuhl1/t8.py
+progr|1573774199653621000|/Users/anshul/Documents/CP104/anshuhl1/progr.py
+stringcapimp|1576709211042447000|/Users/anshul/Documents/CP104/anshuhl1/stringcapimp.py
+t06|1569442281251889000|/Users/anshul/Documents/CP104/anshuhl1/t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+9=/Users/anshul/Documents/CP104/anshuhl1/p1.py
+11=/Users/anshul/Documents/CP104/anshuhl1/t06.py
+10=p1
+2=practice
+5=/Users/anshul/Documents/CP104/anshuhl1/stringcapimp.py
+4=taks
+8=t8
+7=/Users/anshul/Documents/CP104/anshuhl1/t8.py
+6=stringcapimp
+3=/Users/anshul/Documents/CP104/anshuhl1/taks.py
+12=t06
+1=/Users/anshul/Documents/CP104/anshuhl1/practice.py
+-- END DICTIONARY
+-- START TREE 1
+19
+bal|1|balance_bracket!1^11#5*18@
+cha|1|char_!3^136#1*35@
+dia|1|diameter!3^26#5*34@
+dot|1|dot!5^11#1*51@
+dra|1|draw_triangle!3^131#5*34@
+fra|1|fraction_product!3^66#5*34@
+hei|1|height!3^135#1*35@
+mai|1|main!7^12#5*66@
+max|1|maxilist!9^29#5*82@
+mon|1|monthlypay!11^18#1*99@
+my_|1|my_str!5^13#1*51@
+p|1|p!3^137#1*35@
+pri|1|princi!11^12#1*99@
+rat|1|rate!11^16#1*99@
+res|1|result!1^14#1*19@
+squ|1|square_pyramid!3^42#5*34@
+str|1|str_new!5^12#1*51@
+sum|2|sum_partial_harmonic!3^120#5*34@sum_odd!3^102#5*34@
+yea|1|years!11^14#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

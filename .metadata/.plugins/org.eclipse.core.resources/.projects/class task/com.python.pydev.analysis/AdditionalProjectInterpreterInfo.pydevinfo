@@ -1,0 +1,32 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/anshul/Documents/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/class task/com.python.pydev.analysis/v2_indexcache
+task301|1570141442921320000|/Users/anshul/Documents/CP104/class task/task301.py
+classtask2|1569969721620929000|/Users/anshul/Documents/CP104/class task/classtask2.py
+classtask|1569365246916979000|/Users/anshul/Documents/CP104/class task/classtask.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+1=/Users/anshul/Documents/CP104/class task/classtask.py
+3=/Users/anshul/Documents/CP104/class task/task301.py
+4=task301
+5=/Users/anshul/Documents/CP104/class task/classtask2.py
+6=classtask2
+2=classtask
+-- END DICTIONARY
+-- START TREE 1
+10
+add|1|addition!1^20#5*18@
+b|1|b!3^18#1*35@
+div|1|divide!1^31#5*18@
+int|1|intdiv!1^42#5*18@
+mai|1|main!1^48#5*18@
+mod|1|modulus!1^36#5*18@
+mul|1|multiply!1^26#5*18@
+no_|5|no_4!3^15#1*35@no_1!3^12#1*35@no_3!3^14#1*35@no_5!3^16#1*35@no_2!3^13#1*35@
+pri|2|primary_one!5^13#1*51@primary_two!5^14#1*51@
+sub|1|subtraction!1^14#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

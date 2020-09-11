@@ -1,0 +1,57 @@
+Lab 3	Question 1
+
+Output
+
+Temperature (C):40
+Temperature (F): 104
+
+-------------------------------
+
+Question 3
+
+output:
+
+Number of large dogs groomed: 8
+Number of small dogs groomed: 4
+Total earned for the day: $800.00
+
+Number of large dogs groomed: 10
+Number of small dogs groomed: 10
+Total earned for the day: $1,250.00
+
+-------------------------------------
+
+Question 6
+
+output:
+
+Mortgage principal ($): 200000
+Number of years: 20
+Yearly interest rate (%): 5
+
+The monthly payments are: $1,319.91
+--------------------------------------
+
+question 9 
+output:
+
+Diameter of container base (cm): 1.0
+Height of container (cm): 5.0
+Cost of material ($/cm^2): .5
+Number of containers:100
+
+The cost of one container is: $8.24
+The total cost of all containers is $824.25
+
+-------------------------------------
+
+Question 13
+Output:
+
+Midterm mark (%): 75.5
+Exam mark (%):72
+Final Grade (%): 73.2
+
+
+
+

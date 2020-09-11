@@ -1,0 +1,71 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/anshul/Documents/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/khat3680_l6/com.python.pydev.analysis/v2_indexcache
+t10|1571933620406553000|/Users/anshul/Documents/CP104/khat3680_l6/src/t10.py
+functions|1571934038181543000|/Users/anshul/Documents/CP104/khat3680_l6/src/functions.py
+t12|1571933647839645000|/Users/anshul/Documents/CP104/khat3680_l6/src/t12.py
+t03|1571884904116429000|/Users/anshul/Documents/CP104/khat3680_l6/src/t03.py
+t02|1571930230905633000|/Users/anshul/Documents/CP104/khat3680_l6/src/t02.py
+t13|1571862980807770000|/Users/anshul/Documents/CP104/khat3680_l6/src/t13.py
+t05|1571886113416473000|/Users/anshul/Documents/CP104/khat3680_l6/src/t05.py
+t04|1571887182932146000|/Users/anshul/Documents/CP104/khat3680_l6/src/t04.py
+t15|1571929818265219000|/Users/anshul/Documents/CP104/khat3680_l6/src/t15.py
+t07|1571887195464292000|/Users/anshul/Documents/CP104/khat3680_l6/src/t07.py
+t06|1571860169914841000|/Users/anshul/Documents/CP104/khat3680_l6/src/t06.py
+t08|1571887591414753000|/Users/anshul/Documents/CP104/khat3680_l6/src/t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+24
+14=functions
+19=/Users/anshul/Documents/CP104/khat3680_l6/src/t04.py
+11=/Users/anshul/Documents/CP104/khat3680_l6/src/t05.py
+15=/Users/anshul/Documents/CP104/khat3680_l6/src/t03.py
+21=/Users/anshul/Documents/CP104/khat3680_l6/src/t02.py
+5=/Users/anshul/Documents/CP104/khat3680_l6/src/t07.py
+7=/Users/anshul/Documents/CP104/khat3680_l6/src/t06.py
+9=/Users/anshul/Documents/CP104/khat3680_l6/src/t08.py
+1=/Users/anshul/Documents/CP104/khat3680_l6/src/t13.py
+4=t10
+23=/Users/anshul/Documents/CP104/khat3680_l6/src/t15.py
+13=/Users/anshul/Documents/CP104/khat3680_l6/src/functions.py
+18=t12
+16=t03
+17=/Users/anshul/Documents/CP104/khat3680_l6/src/t12.py
+2=t13
+3=/Users/anshul/Documents/CP104/khat3680_l6/src/t10.py
+22=t02
+12=t05
+20=t04
+24=t15
+6=t07
+8=t06
+10=t08
+-- END DICTIONARY
+-- START TREE 1
+22
+b_i|1|b_inc!1^16#1*19@
+b_m|2|b_max!1^15#1*19@b_min!1^14#1*19@
+bur|1|burnt_per_minute!3^14#1*35@
+cha|4|char!5^13#1*51@char!7^15#1*67@char!9^15#1*83@char!11^17#1*99@
+dra|1|draw_arrow!13^31#5*114@
+end|1|end!3^16#1*35@
+fin|2|finish!15^15#1*131@final_value!17^18#1*147@
+gic|1|gic!13^78#5*114@
+h_i|1|h_inc!1^19#1*19@
+h_m|2|h_max!1^18#1*19@h_min!1^17#1*19@
+hei|2|height!11^15#1*99@height!7^14#1*67@
+inc|2|inc!15^16#1*131@inc!3^17#1*35@
+n|1|n!19^14#1*163@
+num|1|num!21^15#1*179@
+p|2|p!21^17#1*179@p!23^14#1*195@
+rat|1|rate!17^16#1*147@
+sta|3|start!15^14#1*131@start!3^15#1*35@statistics!13^110#5*114@
+sum|3|sum_odd!13^12#5*114@sum_s!19^15#1*163@sum_num!15^18#1*131@
+tre|1|treadmill!13^54#5*114@
+val|1|value!17^14#1*147@
+wid|3|width!5^12#1*51@width!9^14#1*83@width!11^16#1*99@
+yea|1|years!17^15#1*147@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,55 @@
+
+Lab 4 Question 1
+-------------------------------------------------------------
+OUTPUT
+
+Enter radius : 2.5
+
+Diameter of circle : 5.00 
+-------------------------------------------------------------
+
+Lab 4 Question 4
+-------------------------------------------------------------
+OUTPUT
+
+Enter length of base:5.0
+Enter the height10
+
+Slant height of square pyramid: 10.31
+Area of square pyramid: 128.08
+Volume of square pyramid: 83.33
+
+-------------------------------------------------------------
+Lab 4 Question 7
+-------------------------------------------------------------
+output
+
+Enter number of nickels: 5
+Enter number of dimes: 8
+Enter number of quarters: 5
+Enter number of loonies: 3
+Enter number of toonies:4
+
+Total amount : $13.30
+
+
+-------------------------------------------------------------
+Lab 4 Question 8
+-------------------------------------------------------------
+output
+
+Enter cost of each computer: $1399
+Enter number of computers: 87
+Enter Wholesaler Commision: %8.5
+
+Cost of computers (no commission): $121713.00
+Cost of computers (total):         $132058.61
+-------------------------------------------------------------
+Lab 4 Question 15 
+-------------------------------------------------------------
+OUTPUT
+Enter the number of seconds: 956000
+Days: 11, Hours: 1, Minutes: 33, Seconds: 20
+
+
+-------------------------------------------------------------

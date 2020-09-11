@@ -1,0 +1,48 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/anshul/Documents/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/khat3680_l8/com.python.pydev.analysis/v2_indexcache
+functions|1576775620169790000|/Users/anshul/Documents/CP104/khat3680_l8/src/functions.py
+t01|1573075927275253000|/Users/anshul/Documents/CP104/khat3680_l8/src/t01.py
+t12|1573076673211480000|/Users/anshul/Documents/CP104/khat3680_l8/src/t12.py
+t05|1573075701646665000|/Users/anshul/Documents/CP104/khat3680_l8/src/t05.py
+t15|1573077189194076000|/Users/anshul/Documents/CP104/khat3680_l8/src/t15.py
+t08|1573077330540209000|/Users/anshul/Documents/CP104/khat3680_l8/src/t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+5=/Users/anshul/Documents/CP104/khat3680_l8/src/t08.py
+7=/Users/anshul/Documents/CP104/khat3680_l8/src/functions.py
+2=t12
+8=functions
+12=t01
+11=/Users/anshul/Documents/CP104/khat3680_l8/src/t01.py
+1=/Users/anshul/Documents/CP104/khat3680_l8/src/t12.py
+9=/Users/anshul/Documents/CP104/khat3680_l8/src/t05.py
+3=/Users/anshul/Documents/CP104/khat3680_l8/src/t15.py
+10=t05
+4=t15
+6=t08
+-- END DICTIONARY
+-- START TREE 1
+17
+a|3|a!1^13#1*19@a!3^12#1*35@a!5^13#1*51@
+b|2|b!3^13#1*35@b!1^14#1*19@
+dec|1|Dec!7^150#1*67@
+get|3|get_lotto_numbers!7^31#5*66@get_weekday_name!7^12#5*66@get_digit_name!7^132#5*66@
+hig|1|high!9^16#1*83@
+ind|1|index!5^22#1*51@
+k|2|k!3^27#1*35@k!1^23#1*19@
+lin|1|linear_search!7^57#5*66@
+lis|1|list_sums!7^86#5*66@
+low|1|low!9^15#1*83@
+n|4|n!5^14#1*51@n!1^15#1*19@n!9^14#1*83@n!3^14#1*35@
+nam|1|name!11^14#1*99@
+num|5|number!5^17#5*51@number_1!1^20#5*19@number!3^18#5*35@number_1!3^23#5*35@number!1^18#5*19@
+p|2|p!11^12#1*99@p!3^15#1*35@
+sym|1|symmetric_difference!7^105#5*66@
+v|1|v!5^20#1*51@
+val|1|values!9^17#1*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

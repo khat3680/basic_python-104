@@ -1,0 +1,54 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/anshul/Documents/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/khat3680_a05/com.python.pydev.analysis/v2_indexcache
+q1|1570924112826910000|/Users/anshul/Documents/CP104/khat3680_a05/src/q1.py
+a3_functions|1570924112828650000|/Users/anshul/Documents/CP104/khat3680_a05/src/a3_functions.py
+q2|1570924112833396000|/Users/anshul/Documents/CP104/khat3680_a05/src/q2.py
+q3|1570924112832424000|/Users/anshul/Documents/CP104/khat3680_a05/src/q3.py
+q4|1570924112827677000|/Users/anshul/Documents/CP104/khat3680_a05/src/q4.py
+a2_functions|1570924112830455000|/Users/anshul/Documents/CP104/khat3680_a05/src/a2_functions.py
+a1_functions|1570924112831410000|/Users/anshul/Documents/CP104/khat3680_a05/src/a1_functions.py
+a4_functions|1570924112829659000|/Users/anshul/Documents/CP104/khat3680_a05/src/a4_functions.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+12=q1
+6=q2
+2=q3
+8=q4
+3=/Users/anshul/Documents/CP104/khat3680_a05/src/a3_functions.py
+15=/Users/anshul/Documents/CP104/khat3680_a05/src/a4_functions.py
+16=a4_functions
+1=/Users/anshul/Documents/CP104/khat3680_a05/src/q3.py
+4=a3_functions
+7=/Users/anshul/Documents/CP104/khat3680_a05/src/q4.py
+5=/Users/anshul/Documents/CP104/khat3680_a05/src/q2.py
+11=/Users/anshul/Documents/CP104/khat3680_a05/src/q1.py
+14=a2_functions
+10=a1_functions
+13=/Users/anshul/Documents/CP104/khat3680_a05/src/a2_functions.py
+9=/Users/anshul/Documents/CP104/khat3680_a05/src/a1_functions.py
+-- END DICTIONARY
+-- START TREE 1
+17
+b_p|1|b_price!1^18#1*19@
+bas|1|base_price!3^12#5*34@
+col|1|colors!5^15#1*51@
+dis|2|disc_length!1^22#1*19@disc_time!1^20#1*19@
+hou|1|hour!1^16#1*19@
+len|2|length!1^15#1*19@Length_discount!3^50#5*34@
+loc|1|location!7^16#1*67@
+max|1|max_three!9^13#5*82@
+num|1|num!5^13#1*51@
+ops|1|ops!11^16#1*99@
+poc|1|pocket_color!13^12#5*114@
+qua|1|quadrant!15^12#5*130@
+tim|1|time_discount!3^28#5*34@
+tot|1|total_answer!1^24#1*19@
+x|2|x!7^13#1*67@x!11^12#1*99@
+y|2|y!7^14#1*67@y!11^13#1*99@
+z|1|z!11^14#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

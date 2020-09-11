@@ -1,0 +1,33 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/anshul/Documents/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/khat3680_a01/com.python.pydev.analysis/v2_indexcache
+functions|1579107534102907000|/Users/anshul/Documents/CP104/khat3680_a01/src/functions.py
+t01|1578862155048834000|/Users/anshul/Documents/CP104/khat3680_a01/src/t01.py
+t03|1578872492133910000|/Users/anshul/Documents/CP104/khat3680_a01/src/t03.py
+t02|1578866381026969000|/Users/anshul/Documents/CP104/khat3680_a01/src/t02.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+2=t01
+6=functions
+3=/Users/anshul/Documents/CP104/khat3680_a01/src/t03.py
+4=t03
+1=/Users/anshul/Documents/CP104/khat3680_a01/src/t01.py
+8=t02
+7=/Users/anshul/Documents/CP104/khat3680_a01/src/t02.py
+5=/Users/anshul/Documents/CP104/khat3680_a01/src/functions.py
+-- END DICTIONARY
+-- START TREE 1
+8
+a|1|a!1^12#1*19@
+a2|1|a2!3^24#1*35@
+is_|1|is_valid!5^33#5*50@
+len|1|lent!1^13#1*19@
+mat|1|matrix_stats!5^61#5*50@
+max|1|max_diff!5^13#5*50@
+nam|1|name!7^12#1*67@
+num|1|number_s!1^15#5*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

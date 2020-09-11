@@ -1,0 +1,43 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/anshul/Documents/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/khat3680_l5/com.python.pydev.analysis/v2_indexcache
+functions|1572633805871209000|/Users/anshul/Documents/CP104/khat3680_l5/src/functions.py
+t02|1570722394353185000|/Users/anshul/Documents/CP104/khat3680_l5/src/t02.py
+t13|1570722550940190000|/Users/anshul/Documents/CP104/khat3680_l5/src/t13.py
+t05|1570722461328580000|/Users/anshul/Documents/CP104/khat3680_l5/src/t05.py
+t15|1570722969315475000|/Users/anshul/Documents/CP104/khat3680_l5/src/t15.py
+t09|1570722523351197000|/Users/anshul/Documents/CP104/khat3680_l5/src/t09.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+5=/Users/anshul/Documents/CP104/khat3680_l5/src/t15.py
+4=functions
+9=/Users/anshul/Documents/CP104/khat3680_l5/src/t05.py
+11=/Users/anshul/Documents/CP104/khat3680_l5/src/t13.py
+7=/Users/anshul/Documents/CP104/khat3680_l5/src/t02.py
+3=/Users/anshul/Documents/CP104/khat3680_l5/src/functions.py
+8=t02
+12=t13
+10=t05
+6=t15
+1=/Users/anshul/Documents/CP104/khat3680_l5/src/t09.py
+2=t09
+-- END DICTIONARY
+-- START TREE 1
+12
+cat|1|category!1^16#1*19@
+fas|1|fast_food!3^123#5*34@
+fin|1|final!5^14#1*51@
+get|1|get_weight!3^12#5*34@
+is_|1|is_leap!3^39#5*34@
+loa|1|loan!3^94#5*34@
+mas|1|mass!7^14#1*67@
+n|1|n!9^17#1*83@
+qua|1|qualified!11^14#1*99@
+spe|1|speed!1^14#1*19@
+win|1|wind_speed!3^68#5*34@
+yea|1|year!9^14#1*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

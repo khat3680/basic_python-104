@@ -1,0 +1,60 @@
+-------------------------------------------------------------
+"""
+------------------------------------------------------------
+Outputs
+------------------------------------------------------------
+Author: Anshul Khatri
+ID:     193313680
+Email:  khat3680@mylaurier.ca
+__updated__ = "2019-10-02"
+------------------------------------------------------------
+"""
+
+-------------------------------------------------------------
+Assignment 4 Question 1
+-------------------------------------------------------------
+OUTPUT
+
+Enter your income: $200000
+Your total tax liability is: $64000 
+[details federal tax: $ 56500, state tax: $ 7500]
+
+Enter your income: $100000
+Your total tax liability is: $24000 
+[details federal tax: $ 21500, state tax: $ 2500]
+
+
+-------------------------------------------------------------
+
+Assignment 4 Question 2
+-------------------------------------------------------------
+OUTPUT
+  239
++ 861
+
+Answer : 344
+
+Incorrect- The answer should be: 1100
+................................................
+  40
++ 974
+
+Answer : 1014
+
+Congratulations, correct answer!
+
+-------------------------------------------------------------
+Assignment 4 Question 3
+-------------------------------------------------------------
+output
+
+Please enter a number between 1 and 7: 5
+The number corresponds to Friday
+
+Please enter a number between 1 and 7: 10
+Sorry,that is not a valid number 
+
+
+
+
+-------------------------------------------------------------

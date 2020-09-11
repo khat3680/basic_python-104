@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;khat3680_a01&apos; to &apos;khat3680_A01&apos;" description="Rename resource &apos;khat3680_a01&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/khat3680_a01" name="khat3680_A01" stamp="1578860032254" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;khat3680_A01&apos; to &apos;A01&apos;" description="Rename resource &apos;khat3680_A01&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/khat3680_A01" name="A01" stamp="1578860205196" updateReferences="true"/>
+</session>

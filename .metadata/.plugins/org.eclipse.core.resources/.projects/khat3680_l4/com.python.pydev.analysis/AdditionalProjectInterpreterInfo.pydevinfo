@@ -1,0 +1,51 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/anshul/Documents/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/khat3680_l4/com.python.pydev.analysis/v2_indexcache
+functions|1570050164598172000|/Users/anshul/Documents/CP104/khat3680_l4/functions.py
+t01|1570044112737367000|/Users/anshul/Documents/CP104/khat3680_l4/t01.py
+t04|1570046590641315000|/Users/anshul/Documents/CP104/khat3680_l4/t04.py
+t15|1570049725987282000|/Users/anshul/Documents/CP104/khat3680_l4/t15.py
+t07|1570045512560968000|/Users/anshul/Documents/CP104/khat3680_l4/t07.py
+t08|1570047416628588000|/Users/anshul/Documents/CP104/khat3680_l4/t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+7=/Users/anshul/Documents/CP104/khat3680_l4/t07.py
+3=/Users/anshul/Documents/CP104/khat3680_l4/t08.py
+2=functions
+6=t01
+5=/Users/anshul/Documents/CP104/khat3680_l4/t01.py
+10=t04
+12=t15
+1=/Users/anshul/Documents/CP104/khat3680_l4/functions.py
+8=t07
+11=/Users/anshul/Documents/CP104/khat3680_l4/t15.py
+9=/Users/anshul/Documents/CP104/khat3680_l4/t04.py
+4=t08
+-- END DICTIONARY
+-- START TREE 1
+20
+com|2|computer_costs!1^89#5*18@comm!3^15#1*35@
+cos|1|cost!3^13#1*35@
+d|1|d!5^17#1*51@
+day|1|DAYS!1^14#1*19@
+dia|1|diameter!1^18#5*18@
+dim|1|dim!7^15#1*67@
+hei|1|height!9^15#1*83@
+hou|1|HOURS!1^13#1*19@
+len|1|len!9^13#1*83@
+lon|1|lon!7^17#1*67@
+min|1|MINUTES!1^15#1*19@
+nic|1|nic!7^14#1*67@
+num|1|num!3^14#1*35@
+qua|1|qua!7^16#1*67@
+rad|1|rad!5^12#1*51@
+sec|1|seconds!11^13#1*99@
+squ|1|square_pyramid!1^66#5*18@
+tim|1|time_split!1^110#5*18@
+ton|1|ton!7^18#1*67@
+tot|2|tot!7^20#1*67@total_change!1^33#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

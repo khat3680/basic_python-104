@@ -1,0 +1,38 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/anshul/Documents/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/khat3680_a08/com.python.pydev.analysis/v2_indexcache
+q1|1573935549634126000|/Users/anshul/Documents/CP104/khat3680_a08/src/q1.py
+q2|1573935685629051000|/Users/anshul/Documents/CP104/khat3680_a08/src/q2.py
+q3|1573856223403949000|/Users/anshul/Documents/CP104/khat3680_a08/src/q3.py
+q4|1573932599006517000|/Users/anshul/Documents/CP104/khat3680_a08/src/q4.py
+a8_functions|1573936342858504000|/Users/anshul/Documents/CP104/khat3680_a08/src/a8_functions.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+8=q1
+4=q2
+10=q3
+2=q4
+6=a8_functions
+3=/Users/anshul/Documents/CP104/khat3680_a08/src/q2.py
+1=/Users/anshul/Documents/CP104/khat3680_a08/src/q4.py
+5=/Users/anshul/Documents/CP104/khat3680_a08/src/a8_functions.py
+9=/Users/anshul/Documents/CP104/khat3680_a08/src/q3.py
+7=/Users/anshul/Documents/CP104/khat3680_a08/src/q1.py
+-- END DICTIONARY
+-- START TREE 1
+10
+ani|2|ani_!1^22#1*19@animals!1^16#5*19@
+cha|1|char!3^15#1*35@
+fin|1|find_function!5^51#5*50@
+is_|1|is_word_chain!5^271#5*50@
+lis|1|list_animals!1^13#1*19@
+my_|2|my_str!3^13#1*35@my_str!7^13#1*67@
+n|1|n!1^12#1*19@
+str|3|string_capitalizer!5^242#5*50@string_1!9^13#1*83@str_fin!9^14#1*83@
+sum|1|sum_digit_string!5^11#5*50@
+tot|1|total!7^15#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

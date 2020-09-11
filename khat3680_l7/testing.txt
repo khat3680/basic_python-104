@@ -1,0 +1,107 @@
+
+Lab 7 Question 9
+-------------------------------------------------------------
+OUTPUT
+
+Enter a value between 0 and high 100:110
+Value entered is too high
+Enter a value between 0 and high 100: 110
+Value entered is too high
+Enter a value between 0 and high 100: -10
+Value entered is too low
+Enter a value between 0 and high 100:1
+
+Value: 1
+
+-------------------------------------------------------------
+
+Lab 7 Question 1
+-------------------------------------------------------------
+OUTPUT
+
+Enter the maximum value you want numbers to:40
+Guess:30
+Too high, try again.
+Guess:25
+Too high, try again.
+Guess:20
+Too high, try again.
+Guess:15
+Too high, try again.
+Guess:10
+Too high, try again.
+Guess:5
+Too low, try again.
+Guess:6
+Congratulations - good guess!
+You made 7 guesses
+
+
+
+-------------------------------------------------------------
+Lab 7 Question 3
+-------------------------------------------------------------
+Output
+
+Target Population:100000
+Current Population:1000
+Growth rate(%):10
+
+Years to reach target: 49
+
+Target population: 10000
+Current population: 1000
+Growth rate (%): 100
+
+Years to reach target: 4
+
+
+
+-------------------------------------------------------------
+Lab 7 Question 5
+-------------------------------------------------------------
+Output
+First positive value: 4.2
+Next positive value: 3.5
+Next positive value: 0
+Next positive value: 6.1
+Next positive value: -1
+
+minimum: 0.00
+maximum: 6.10
+total: 13.80
+average: 3.45
+
+
+-------------------------------------------------------------
+Lab 7 Question 7
+-------------------------------------------------------------
+OUTPUT
+For Day 1
+
+How much was breakfast? $7.95
+How much was lunch? $15.32
+How much was supper? $42.56
+Your total for the day was $65.83
+
+Were you away another day (Y/N)? Y
+
+For Day 2
+
+How much was breakfast? $5.55
+How much was lunch? $12.39
+How much was supper? $36.23
+Your total for the day was $54.17
+
+Were you away another day (Y/N)? N
+
+Total:
+Breakfast:   $ 13.50
+Lunch:       $ 27.71
+Supper:      $ 78.79
+
+Grand total: $120.00
+
+
+
+-------------------------------------------------------------

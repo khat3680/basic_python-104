@@ -1,0 +1,116 @@
+"""
+------------------------------------------------------------------------
+testing.txt
+------------------------------------------------------------------------
+Author: Anshul Khatri
+ID:     193313680
+Email:  khat3680@mylaurier.ca
+__updated__ = "2019-11-07"
+------------------------------------------------------------------------
+"""
+------------------------------------------------------------
+q1
+------------------------------------------------------------
+Enter "red" or "green" or press ENTER to stop: red
+Enter "red" or "green" or press ENTER to stop: red
+Enter "red" or "green" or press ENTER to stop: re
+Enter "red" or "green" or press ENTER to stop: red
+Enter "red" or "green" or press ENTER to stop: green
+Enter "red" or "green" or press ENTER to stop: green
+Enter "red" or "green" or press ENTER to stop: green
+Enter "red" or "green" or press ENTER to stop: ReD
+Enter "red" or "green" or press ENTER to stop: 
+Number of "red" entered: 4
+Number of "green" entered: 3
+"red" team wins!!!
+
+Enter "red" or "green" or press ENTER to stop: GReeN
+Enter "red" or "green" or press ENTER to stop: GreeN
+Enter "red" or "green" or press ENTER to stop: GrEEn
+Enter "red" or "green" or press ENTER to stop: gREEn
+Enter "red" or "green" or press ENTER to stop: Red
+Enter "red" or "green" or press ENTER to stop: RED
+Enter "red" or "green" or press ENTER to stop: rED
+Enter "red" or "green" or press ENTER to stop: red
+Enter "red" or "green" or press ENTER to stop: 
+Number of "red" entered: 4
+Number of "green" entered: 4
+Tie!!!
+
+Enter "red" or "green" or press ENTER to stop: GREEN
+Enter "red" or "green" or press ENTER to stop: GREEn
+Enter "red" or "green" or press ENTER to stop: GReen
+Enter "red" or "green" or press ENTER to stop: green
+Enter "red" or "green" or press ENTER to stop: red
+Enter "red" or "green" or press ENTER to stop: RED
+Enter "red" or "green" or press ENTER to stop: REd
+Enter "red" or "green" or press ENTER to stop: 
+Number of "red" entered: 3
+Number of "green" entered: 4
+"green" team wins!!!
+------------------------------------------------------------
+q2
+------------------------------------------------------------
+Enter number of lines: 7
+#      
+##     
+# #    
+#  #   
+#   #  
+#    # 
+#######
+
+Enter number of lines: 3
+#  
+## 
+###
+------------------------------------------------------------
+q3
+------------------------------------------------------------
+Enter Number: -100
+Enter Number: 7
+Enter Number: 8
+Enter Number: 9
+Enter Number: 10.001
+Enter Number: 99
+Enter Number: 98
+Enter Number: 3.5
+Enter Number: blah
+Enter Number: 0
+List entered: [7, 8, 9, 99, 98]
+------------------------------------------------------------
+q4
+------------------------------------------------------------
+Enter Number: 10
+Enter Number: 9
+Enter Number: 8
+Enter Number: 7
+Enter Number: -6
+Enter Number: -5
+Enter Number: 4
+Enter Number: 3
+Enter Number: 2
+Enter Number: -1
+Enter Number: 0
+List entered: [10, 9, 8, 7, 4, 3, 2]
+Enter target = 5
+Target exists at location(s): []
+
+Enter Number: 10
+Enter Number: 9
+Enter Number: 8
+Enter Number: 7
+Enter Number: 6
+Enter Number: 5
+Enter Number: 5
+Enter Number: 4
+Enter Number: 5
+Enter Number: 3
+Enter Number: 2
+Enter Number: 5
+Enter Number: 1
+Enter Number: 0
+List entered: [10, 9, 8, 7, 6, 5, 5, 4, 5, 3, 2, 5, 1]
+Enter target = 5
+Target exists at location(s): [5, 6, 8, 11]
+------------------------------------------------------------

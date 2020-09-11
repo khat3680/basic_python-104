@@ -1,0 +1,65 @@
+"""
+------------------------------------------------------------------------
+Assignment 5 
+Testing
+------------------------------------------------------------------------
+Author: Anshul Khatri
+ID:     193313680
+Email:  khat3680@mylaurier.ca
+__updated__ = "2019-10-11"
+------------------------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Please enter your first number:11.5
+Please enter your second number:6.3
+PLease enter your third number:3.7
+
+The average of the two smaller values is:5.0
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Please enter your first number:6.8
+Please enter your second number:1.1
+PLease enter your third number:3.3
+
+The average of the two smaller values is:2.2
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a pocket number: 0
+
+The selected pocket is green.
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter a pocket number: 37
+
+The pocket number entered is incorrect.
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Length of call (minutes): 10
+Hour of call (24 hour format): 17
+
+Total price of call: $0.80
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Length of call (minutes): 32
+Hour of call (24 hour format): 11
+
+Total price of call: $2.30
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Enter x coordinate: 5
+Enter y coordinate: -10
+The point (5, -10) lies in Q4
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter x coordinate: 3
+Enter y coordinate: -4
+The point (3, -4) lies in Q4

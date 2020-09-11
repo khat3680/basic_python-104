@@ -1,0 +1,42 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/anshul/Documents/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/khat3680_l9/com.python.pydev.analysis/v2_indexcache
+functions|1573755283366183000|/Users/anshul/Documents/CP104/khat3680_l9/src/functions.py
+t12|1573755355941156000|/Users/anshul/Documents/CP104/khat3680_l9/src/t12.py
+t14|1573755410616314000|/Users/anshul/Documents/CP104/khat3680_l9/src/t14.py
+t02|1573755386109990000|/Users/anshul/Documents/CP104/khat3680_l9/src/t02.py
+t04|1573754299188742000|/Users/anshul/Documents/CP104/khat3680_l9/src/t04.py
+t06|1573755438716842000|/Users/anshul/Documents/CP104/khat3680_l9/src/t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+2=functions
+6=t12
+9=/Users/anshul/Documents/CP104/khat3680_l9/src/t04.py
+4=t14
+5=/Users/anshul/Documents/CP104/khat3680_l9/src/t12.py
+3=/Users/anshul/Documents/CP104/khat3680_l9/src/t14.py
+7=/Users/anshul/Documents/CP104/khat3680_l9/src/t06.py
+12=t02
+10=t04
+11=/Users/anshul/Documents/CP104/khat3680_l9/src/t02.py
+1=/Users/anshul/Documents/CP104/khat3680_l9/src/functions.py
+8=t06
+-- END DICTIONARY
+-- START TREE 1
+11
+com|1|comma_period_replace!1^91#5*18@
+d|1|d!3^15#1*35@
+fin|1|finder!5^15#1*51@
+is_|1|is_palindrome!1^44#5*18@
+pal|1|palindrome!7^15#1*67@
+prd|1|prdt_code!9^13#1*83@
+s|2|s!7^13#1*67@s!3^12#1*35@
+s1|1|s1!3^13#1*35@
+str|2|str_distance!1^12#5*18@string_input!5^13#1*51@
+url|3|url_type!11^16#1*99@url_categorize!1^66#5*18@url!11^14#1*99@
+val|1|validate_code!1^109#5*18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

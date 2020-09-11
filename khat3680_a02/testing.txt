@@ -1,0 +1,37 @@
+
+OUTPUT FOR Q1.
+
+Enter First Name: Anshul
+Enter Last Name: Khatri
+Welcome Anshul Khatri
+
+---------------------------
+OUTPUT FOR Q2.
+
+Principal:1404
+Interest (decimal):2
+Number of years:5
+Compound interest per year: 13
+Balance: $ 15380875.13
+
+----------------------------
+OUTPUT FOR Q3.
+
+Enter the total amount of sales:100000
+
+       Projected Profit Report 
+       --------------------------
+       Total sales: $ 100000.00 
+       Annual profit: % 23
+       --------------------------
+       Profit: $ 23000.00
+
+----------------------------------
+
+OUTPUT FOR Q4.
+
+Enter the date in MMDDYYYY :02172018
+17 / 2 / 2018
+
+Enter the date in MMDDYYYY :03272001
+27 / 3 / 2001

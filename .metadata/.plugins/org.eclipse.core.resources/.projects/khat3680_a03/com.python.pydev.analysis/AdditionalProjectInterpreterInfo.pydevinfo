@@ -1,0 +1,36 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/anshul/Documents/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/khat3680_a03/com.python.pydev.analysis/v2_indexcache
+q1|1569352389342123000|/Users/anshul/Documents/CP104/khat3680_a03/q1.py
+q2|1569525154627531000|/Users/anshul/Documents/CP104/khat3680_a03/q2.py
+q3|1569526796544114000|/Users/anshul/Documents/CP104/khat3680_a03/q3.py
+q4|1569530682625663000|/Users/anshul/Documents/CP104/khat3680_a03/q4.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+2=q1
+5=/Users/anshul/Documents/CP104/khat3680_a03/q3.py
+7=/Users/anshul/Documents/CP104/khat3680_a03/q2.py
+8=q2
+6=q3
+4=q4
+1=/Users/anshul/Documents/CP104/khat3680_a03/q1.py
+3=/Users/anshul/Documents/CP104/khat3680_a03/q4.py
+-- END DICTIONARY
+-- START TREE 1
+11
+bal|2|balloons_left!1^21#1*19@balloons!1^17#1*19@
+cal|1|calorie_calculator!3^12#5*34@
+dig|2|digit_one!5^14#1*51@digit_two!5^16#1*51@
+exa|1|exam!7^15#1*67@
+fin|1|final_exam!7^13#1*67@
+gra|2|grams_carb!3^32#1*35@grams_fat!3^31#1*35@
+mid|1|mid_term!7^12#1*67@
+no_|2|no_of_balloons!1^12#1*19@no_of_children!1^14#1*19@
+num|1|number!5^12#1*51@
+sum|1|sum_digits!5^18#1*51@
+tot|1|TOTAL!3^35#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

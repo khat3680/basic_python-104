@@ -1,0 +1,23 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/anshul/Documents/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/khat3680_a09/com.python.pydev.analysis/v2_indexcache
+q1|1574538608054497000|/Users/anshul/Documents/CP104/khat3680_a09/src/q1.py
+q2|1574559993452321000|/Users/anshul/Documents/CP104/khat3680_a09/src/q2.py
+a9_functions|1574562759698272000|/Users/anshul/Documents/CP104/khat3680_a09/src/a9_functions.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+4=q2
+1=/Users/anshul/Documents/CP104/khat3680_a09/src/a9_functions.py
+3=/Users/anshul/Documents/CP104/khat3680_a09/src/q2.py
+2=a9_functions
+-- END DICTIONARY
+-- START TREE 1
+3
+fin|1|find_median!1^14#5*18@
+fv_|2|fv_1!3^12#1*35@fv_2!3^14#1*35@
+res|1|result!3^16#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

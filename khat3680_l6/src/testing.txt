@@ -1,0 +1,98 @@
+
+Lab 6 Question 2
+-------------------------------------------------------------
+OUTPUT
+
+Enter a number:4
+The sum of all odd numbers from 1 to 4 is: 4
+-------------------------------------------------------------
+ Enter a number: 123
+The sum of all odd numbers from 1 to 123 is: 3844
+ 
+-------------------------------------------------------------
+
+Lab 6 Question 7
+-------------------------------------------------------------
+OUTPUT
+
+Enter width in characters:6
+Enter the draw character:*
+
+*
+**
+***
+****
+*****
+******
+*****
+****
+***
+**
+*
+
+
+-------------------------------------------------------------
+Lab 6 Question 10
+-------------------------------------------------------------
+Output
+
+Enter calories burned per minute: 3.9
+Enter beginning number of minutes: 5
+Enter ending number of minutes: 30
+Enter the increment in minutes: 5
+
+Calories burned after 5 minutes: 19.5
+Calories burned after 10 minutes: 39.0
+Calories burned after 15 minutes: 58.5
+Calories burned after 20 minutes: 78.0
+Calories burned after 25 minutes: 97.5
+Calories burned after 30 minutes: 117.0
+
+
+-------------------------------------------------------------
+Lab 6 Question 12
+-------------------------------------------------------------
+Output
+
+Enter the GIC purchase value: $10000
+Enter the number of years invested: 12
+Enter the GIC interest rate (%): 1.25
+
+Year       Value $
+------------------
+  0       10,000.00
+  1       10,125.00
+  2       10,251.56
+  3       10,379.71
+  4       10,509.45
+  5       10,640.82
+  6       10,773.83
+  7       10,908.50
+  8       11,044.86
+  9       11,182.92
+ 10       11,322.71
+ 11       11,464.24
+ 12       11,607.55
+
+
+-------------------------------------------------------------
+Lab 6 Question 15
+-------------------------------------------------------------
+OUTPUT
+
+Enter number of values: 5
+First value: 1
+Next value: 2
+Next value: -3.4
+Next value: 4
+Next value: 5.3
+
+Minimum: -3.40
+Maximum: 5.30
+Total: 8.90
+Average: 1.78
+
+
+
+
+-------------------------------------------------------------

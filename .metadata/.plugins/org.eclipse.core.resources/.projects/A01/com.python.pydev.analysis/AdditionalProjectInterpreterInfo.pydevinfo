@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/anshul/Documents/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/A01/com.python.pydev.analysis/v2_indexcache
+q1.q2|1568764986788572000|/Users/anshul/Documents/CP104/A01/q1/q2.py
+q1.q1|1572392622104369000|/Users/anshul/Documents/CP104/A01/q1/q1.py
+q1.khat3680_a01.q2|1568519707000000000|/Users/anshul/Documents/CP104/A01/q1/khat3680_a01/q2.py
+q1.khat3680_a01.q1|1568519137000000000|/Users/anshul/Documents/CP104/A01/q1/khat3680_a01/q1.py
+q1.__init__|1568518295635124000|/Users/anshul/Documents/CP104/A01/q1/__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+4=q1.q2
+2=q1.khat3680_a01.q2
+1=/Users/anshul/Documents/CP104/A01/q1/khat3680_a01/q2.py
+3=/Users/anshul/Documents/CP104/A01/q1/q2.py
+-- END DICTIONARY
+-- START TREE 1
+4
+h_i|1|h_inch!1^2#1*19@
+h_m|1|h_mete!1^3#1*19@
+out|1|outtput!3^16#1*35@
+var|2|varig!3^13#1*35@varig0!3^14#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

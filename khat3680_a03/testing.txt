@@ -1,0 +1,69 @@
+
+
+Author:  Anshul Khatri 
+ID:      193313680
+Email:   khat3680@mylaurier.ca
+Version: 2019-09-25
+
+----------------------------------------
+"""
+----------------------------------------
+q1
+----------------------------------------
+CASE 1: number of balloons > number of children ( Balloons leftover)
+
+Enter number of balloons:5
+Enter number of children:3
+
+Each child will receive 1 balloons
+Balloons that won’t be distributed: 2
+
+
+CASE 2: number of balloons < number of children ( No Balloons leftover)
+
+Enter number of balloons:50
+Enter number of children:10
+
+Each child will receive 5 balloons
+Balloons that won’t be distributed: 0
+
+
+
+CASE 3: number of balloons = number of children
+
+Enter number of balloons:40
+Enter number of children:40
+
+Each child will receive 1 balloons
+Balloons that won’t be distributed: 0
+----------------------------------------
+q2
+----------------------------------------
+
+Enter your score in Midterm (0-100):60
+Enter your score in Final (0-100):38
+
+Your weighted exam score is:27.2
+----------------------------------------
+q3
+----------------------------------------
+
+Enter a positive two digit integer:20
+
+The sum of the two digits in the integer(20)is: 2
+
+Enter a positive two digit integer:37
+
+The sum of the two digits in the integer(37)is: 10
+----------------------------------------
+q4
+----------------------------------------
+Enter the fat grams consumed: 100
+Enter the carbohydrate grams consumed: 200
+
+Total calories a total of 1700[Fat calories:900.00 and Carb calories: 800.00]
+
+
+
+
+

@@ -1,0 +1,38 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/anshul/Documents/CP104/.metadata/.plugins/org.eclipse.core.resources/.projects/khat3680_l7/com.python.pydev.analysis/v2_indexcache
+functions|1572469867392476000|/Users/anshul/Documents/CP104/khat3680_l7/src/functions.py
+t01|1572547542847987000|/Users/anshul/Documents/CP104/khat3680_l7/src/t01.py
+t03|1572467244415362000|/Users/anshul/Documents/CP104/khat3680_l7/src/t03.py
+t05|1572468987675364000|/Users/anshul/Documents/CP104/khat3680_l7/src/t05.py
+t07|1572469061856622000|/Users/anshul/Documents/CP104/khat3680_l7/src/t07.py
+t09|1572464476724444000|/Users/anshul/Documents/CP104/khat3680_l7/src/t09.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+3=/Users/anshul/Documents/CP104/khat3680_l7/src/functions.py
+7=/Users/anshul/Documents/CP104/khat3680_l7/src/t09.py
+4=functions
+6=t01
+2=t03
+5=/Users/anshul/Documents/CP104/khat3680_l7/src/t01.py
+1=/Users/anshul/Documents/CP104/khat3680_l7/src/t03.py
+8=t09
+-- END DICTIONARY
+-- START TREE 1
+11
+cur|1|current!1^15#1*19@
+get|1|get_int!3^12#5*34@
+hi_|1|hi_lo_game!3^38#5*34@
+mea|1|meal_costs!3^133#5*34@
+n|1|n!5^41#1*51@
+pop|1|population_growth!3^69#5*34@
+pos|1|positive_statistics!3^95#5*34@
+rat|1|rate!1^16#1*19@
+tar|1|target!1^14#1*19@
+val|1|val!7^16#1*67@
+yea|1|years!1^18#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

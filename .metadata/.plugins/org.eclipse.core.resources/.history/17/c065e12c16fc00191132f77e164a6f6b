@@ -1,0 +1,25 @@
+"""
+------------------------------------------------------------------------
+Program Description
+------------------------------------------------------------------------
+Author: Anshul Khatri
+ID:     193313680
+Email:  khat3680@mylaurier.ca
+__updated__ = "2019-09-14"
+------------------------------------------------------------------------
+"""
+
+def diameter(radius):
+    """
+    -------------------------------------------------------
+    Calculates and returns diameter of a circle.
+    Use: d = diameter(radius)
+    -------------------------------------------------------
+    Parameters:
+        radius - radius of a circle (float >= 0)
+    Returns:
+        d - diameter of a circle (float)
+    ----
+    """
+    d=radius*2
+    return d

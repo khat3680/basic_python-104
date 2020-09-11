@@ -1,0 +1,40 @@
+
+Assignment 8 Question 1
+-------------------------------------------------------------
+OUTPUT
+Enter a string: 9123
+Sum of digits of strings: 15
+
+Enter a string: 390
+Sum of digits of strings: 12
+-------------------------------------------------------------
+Assignment 8 Question 2
+-------------------------------------------------------------
+OUTPUT
+Enter a string: Anshul khatri
+Character is: a
+
+Enter a string: madhav kapoor
+Character is: a
+-------------------------------------------------------------
+Assignment 8 Question 3
+-------------------------------------------------------------
+output
+Enter the text to edit 
+hey! my name is Joe. how are the things
+
+Hey! my name is Joe. How are the things
+
+Enter the text to edit 
+hey! my name is madhav. what are you doing?
+
+Hey! my name is madhav. What are you doing?
+
+
+-------------------------------------------------------------
+Assignment 8 Question 4
+-------------------------------------------------------------
+output
+
+
+-------------------------------------------------------------

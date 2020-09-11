@@ -1,0 +1,80 @@
+t01.py
+--------------------------------------------------------------------------------
+Enter a Number between 1 and 7:6
+Friday
+
+Enter a Number between 1 and 7:2
+Monday
+---------------------------------------------------------------------------------
+t05.py
+---------------------------------------------------------------------------------
+Enter n: 2
+Enter low: 5
+Enter high: 123
+Lotto numbers: [116, 46]
+
+Enter n: 3
+Enter low: 12
+Enter high: 21
+Lotto numbers: [19, 16, 21]
+---------------------------------------------------------------------------------
+t08.py
+---------------------------------------------------------------------------------
+Enter number of values in a list: 2
+Enter a value at 1:1
+Enter a value at 2:23
+Enter variable to search: 123
+Index of 123: -1
+Element not present
+
+Enter number of values in a list: 4
+Enter a value at 1:2
+Enter a value at 2:3
+Enter a value at 3:1
+Enter a value at 4:4
+Enter variable to search: 2
+Index of 2: 0
+
+---------------------------------------------------------------------------------
+t12.py
+---------------------------------------------------------------------------------
+Enter number of values in a list: 2
+Enter a value at 1:12
+Enter a value at 1:3
+Enter a value at 2:123
+Enter a value at 2:12
+[15, 135]
+
+Enter number of values in a list: 4
+Enter a value at 1:21
+Enter a value at 1:123
+Enter a value at 2:13224
+Enter a value at 2:4635
+Enter a value at 3:7356
+Enter a value at 3:251
+Enter a value at 4:14
+Enter a value at 4:35
+[144, 17859, 7607, 49]
+------------------------------------------------------------------------------------
+t15.py
+------------------------------------------------------------------------------------
+Enter number of values in list 1: 2
+Enter number of values in list 2: 2
+Enter a value for list 1 at 1:12
+Enter a value for list 1 at 2:324
+Values 1: [12, 324]
+Enter a value for list 2 at 2:21
+Enter a value for list 2 at 2:3
+Values 2: [21, 3]
+[12, 324, 21, 3]
+
+Enter number of values in list 1: 2
+Enter number of values in list 2: 3
+Enter a value for list 1 at 1:1
+Enter a value for list 1 at 2:3
+Values 1: [1, 3]
+Enter a value for list 2 at 2:1
+Enter a value for list 2 at 2:2
+Enter a value for list 2 at 2:4
+Values 2: [1, 2, 4]
+[3, 2, 4]
